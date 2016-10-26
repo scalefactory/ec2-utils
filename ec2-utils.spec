@@ -1,5 +1,3 @@
-%define _buildid %{nil}
-
 %bcond_without upstart
 
 %if 0%{?fedora} >= 17
